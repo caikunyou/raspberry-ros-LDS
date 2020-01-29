@@ -2,26 +2,27 @@
 
 HLS-LFCD2
 
-#必要物：
+#必要物：\
        raspberry 3B+ \
        USB to TTL USB (CP2102)\
        Hitachi-LG (HLS-S-LFCD2)\
-#接線方法
+...
+#接線方法\
 
-*Hittachi-LG---------->USB to TTL*\
-*Vcc--------------------->5V*\
-*TX---------------------->RX           *\
-*PWM           *\
-*GND--------------------->GND           *\
-*RX---------------------->TX           *\
-*BOOT0           
+Hittachi-LG---------->USB to TTL\
+Vcc--------------------->5V\
+TX---------------------->RX           \
+PWM           \
+GND--------------------->GND           \
+RX---------------------->TX           \
+BOOT0           \
            
-*モータ側 --------Hittachi-LG           *\
-*Vcc------------->Vcc           *\
-*PWM------------->PWM           *\
-
+モータ側 --------Hittachi-LG           \
+Vcc------------->Vcc           \
+PWM------------->PWM           \
+...
 OS https://downloads.ubiquityrobotics.com/pi.html
-
+...
 #install方法
 $  cd /catkin_ws/src/
 $  git clone https://github.com/caikunyou/raspberry-ros-LDS.git
