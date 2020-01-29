@@ -3,22 +3,22 @@
 HLS-LFCD2
 
 #必要物：
-       raspberry 3B+ 
-       USB to TTL USB (CP2102)
-       Hitachi-LG (HLS-S-LFCD2)
+       raspberry 3B+ \
+       USB to TTL USB (CP2102)\
+       Hitachi-LG (HLS-S-LFCD2)\
 #接線方法
 
-*Hittachi-LG---------->USB to TTL           *
-*Vcc--------------------->5V           *
-*TX---------------------->RX           *
-*PWM           *
-*GND--------------------->GND           *
-*RX---------------------->TX           *
+*Hittachi-LG---------->USB to TTL*\
+*Vcc--------------------->5V*\
+*TX---------------------->RX           *\
+*PWM           *\
+*GND--------------------->GND           *\
+*RX---------------------->TX           *\
 *BOOT0           
            
-*モータ側 --------Hittachi-LG           *
-*Vcc------------->Vcc           *
-*PWM------------->PWM           *
+*モータ側 --------Hittachi-LG           *\
+*Vcc------------->Vcc           *\
+*PWM------------->PWM           *\
 
 OS https://downloads.ubiquityrobotics.com/pi.html
 
