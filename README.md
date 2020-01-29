@@ -36,5 +36,7 @@ $  roslaunch hls_lfcd_lds_driver hlds_laser.launch
 scanテスト
 $  roslaunch hls_lfcd_lds_driver view_hlds_laser.launch
 ```
+![image](https://github.com/caikunyou/raspberry-ros-LDS/blob/master/img/20200130023256.jpg)
+
 YouTube　　https://youtu.be/jjwV9W1ukl4  \
 参考資料　  https://blog.csdn.net/jacka654321/article/details/83043031  \
