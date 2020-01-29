@@ -5,9 +5,9 @@ HLS-LFCD2
 #必要物：\
        raspberry 3B+ \
        USB to TTL USB (CP2102)\
-       ![image]（https://github.com/caikunyou/raspberry-ros-LDS/blob/master/img/20200130021345.jpg）
+![image](https://github.com/caikunyou/raspberry-ros-LDS/blob/master/img/20200130021345.jpg)
        Hitachi-LG (HLS-S-LFCD2)\
-       ![image]（https://github.com/caikunyou/raspberry-ros-LDS/blob/master/img/20200130021406.jpg）
+![image](https://github.com/caikunyou/raspberry-ros-LDS/blob/master/img/20200130021406.jpg)
 #接線方法\
 
 Hittachi-LG---------->USB to TTL\
