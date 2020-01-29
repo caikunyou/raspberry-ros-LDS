@@ -22,7 +22,7 @@ BOOT0           \
 Vcc------------->Vcc           \
 PWM------------->PWM           \
 
-OS https://downloads.ubiquityrobotics.com/pi.html
+使ったOS https://downloads.ubiquityrobotics.com/pi.html
 
 #install方法
 ```$  cd /catkin_ws/src/
