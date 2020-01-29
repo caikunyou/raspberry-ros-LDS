@@ -31,7 +31,8 @@ $  cd  ~/catkin_ws
 $  catkin_make
 $  source ~/catkin_ws/devel/setup.bash
 $  cd
-
+テスト
 $  roslaunch hls_lfcd_lds_driver hlds_laser.launch
+scanテスト
 $  roslaunch hls_lfcd_lds_driver view_hlds_laser.launch
 ```
