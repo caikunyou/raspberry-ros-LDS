@@ -22,9 +22,7 @@ BOOT0           \
 Vcc------------->Vcc           \
 PWM------------->PWM           \
 
-使ったOS https://downloads.ubiquityrobotics.com/pi.html
 
-#install方法
 ```
 $  cd /catkin_ws/src/
 $  git clone https://github.com/caikunyou/raspberry-ros-LDS.git
